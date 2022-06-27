@@ -8,3 +8,4 @@ app.get('/', (req,res)=>{
 app.listen(3000, (req,res)=>{
     console.log('listening')
 })
+console.log(12)
